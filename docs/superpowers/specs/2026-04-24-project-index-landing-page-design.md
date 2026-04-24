@@ -4,7 +4,7 @@ Date: 2026-04-24
 
 ## Goal
 
-Replace the current `manolisar.github.io` index page with a polished project landing page for Manolis Archontakis' marine engineering tools. The page should feel purpose-built for shipboard fuel and voyage work, not like a generic portfolio page.
+Replace the current `manolisar.github.io` index page with a polished project landing page for marine engineering tools. The page should feel purpose-built for shipboard fuel and voyage work, not like a generic portfolio page.
 
 The page will present four launch entries:
 
@@ -32,7 +32,7 @@ The page remains a single static HTML document at `index.html`.
 
 The first viewport contains:
 
-- Fixed or sticky navigation with owner identity, tool navigation, GitHub link, and a compact theme control.
+- Fixed or sticky navigation with site identity, tool navigation, GitHub link, and a compact theme control.
 - Hero copy focused on operational usefulness, with a headline similar to "Plan the leg. Measure the burn."
 - A small operational snapshot panel that references the three active domains: fuel, route, and tracking.
 - A hint of the tool section below the hero on desktop and mobile.
@@ -48,6 +48,7 @@ The footer stays concise:
 
 - Site identity.
 - GitHub link.
+- A discreet bottom credit reading `manolisar / dev`, linked to the GitHub account.
 - Copyright.
 - Optional operational status text.
 
